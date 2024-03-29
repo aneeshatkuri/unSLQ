@@ -1,2 +1,2 @@
-# unSLQ
-unStructured Language Querying
+# llmanager
+LLM-SQL
