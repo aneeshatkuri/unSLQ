@@ -10,7 +10,7 @@ Create table STUDENT(NAME VARCHAR(25), ROLE VARCHAR(25), COMPANY VARCHAR(25), LO
 
 cursor.execute(table_info)
 
-cursor.execute('''Insert Into STUDENT values('Aneesh', 'Product Management Intern', 'Juniper Networks', 'Sunnyvale', 60)''')
+cursor.execute('''Insert Into STUDENT values('Aneesh', 'Product Management Intern', 'Juniper Networks', 'Sunnyvale', 65)''')
 cursor.execute('''Insert Into STUDENT values('Manohar', 'Machine Learning Engineer Intern', 'Apple', 'Seattle', 52)''')
 cursor.execute('''Insert Into STUDENT values('Abhinav', 'Software Engineer Intern', 'Oracle', 'Redwood City', 50)''')
 cursor.execute('''Insert Into STUDENT values('Aadesh', 'Deep Learning Architect Intern', 'NVIDIA', 'Santa Clara', 54)''')
